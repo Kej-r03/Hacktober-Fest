@@ -1,3 +1,3 @@
 # Hacktober-Fest
 
-This is Rishi.
+This is Rishi
